@@ -1,2 +1,2 @@
-# EntregaPDP-modulo-digital
+# EntregaPDP-Grupo3
 Entrega final modulo digital
